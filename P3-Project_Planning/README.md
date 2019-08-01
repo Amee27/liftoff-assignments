@@ -1,5 +1,7 @@
 # Project Planning
-For this assignment, you'll create some initial plans for your project.
+
+For this assignment, I have created initial plans for my project.
+
 
 ## Assignment Description
 [Project Planning Assignment](https://education.launchcode.org/liftoff/assignments/planning/)
@@ -8,12 +10,23 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
+* [Wireframes Overview](./Overview.jpg)
+* [Regesration](./Register.jpg)
+* [Login](./Login.jpg)
+* [Booklist](./BookList.jpg)
+* [Addbook](./AddBook.jpg)
+* [Editbook](./EditBook.jpg)
+* [Readlist](./ReadList.jpg)
+
 
 ### Project Tracker
 
-(Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
+Here is the link for my project tracker that contains user stories for  first 2-week sprint. 
+* [Trello](https://trello.com/b/pLrqlJKt/book-logger)
+
+
 
 ### Project Repo Link
 
-(Include a link to your project on GitHub)
+Here is a link to my project on GitHub
+* [GitHub Link](https://github.com/Amee27/book-logger.git)
