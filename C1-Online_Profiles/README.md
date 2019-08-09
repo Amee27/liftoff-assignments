@@ -7,10 +7,12 @@ For this assignment you will need to upload your resume, and provide links to yo
 ## Submission Instructions
  
 ### GitHub
-Provide a link to your GitHub account here.
+Link to my GitHub account is here.
+* [Amita's GitHub Account](https://github.com/Amee27)
  
 ### LinkedIn
-Provide a link to your LinkedIn account here.
+Link to my LinkedIn account is here.
+* [Amita's LinkedIn Account](https://www.linkedin.com/in/amita-nakrani)
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
